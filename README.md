@@ -17,3 +17,7 @@ You can create, delete, and mark tasks as completed — and all your data stays 
 - `Firebase Firestore`
 - `Firebase Authentication`
 - `MVVM` architecture
+
+## 📸 Screenshots
+
+<img src="screenshots/login.png" width="200"/> <img src="screenshots/register.png" width="200"/> <img src="screenshots/tasks2.png" width="200"/> <img src="screenshots/profile.png" width="200"/> <img src="screenshots/newtask.png" width="200"/>
